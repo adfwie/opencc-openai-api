@@ -4,19 +4,16 @@
 要python3.8以上版本
 
 
-安装依赖pip install -r requirements.txt
 
 
 
-启动服务：python convert_api.py
+双击启动
 
 
 
 api地址填http://127.0.0.1:8000/v1
 
 
-
-windows打包成exe：pyinstaller -F -c convert_api.py
 
 
 
